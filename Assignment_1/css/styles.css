@@ -1,13 +1,12 @@
 .part1 {
     background-image:url(../images/assets/backgrounds/hero.jpg);
-    border-bottom: 100px;
       }
 
-p {
+.part1 p {
      color: white;
       }
 
-h1 {
+.part1 h1 {
     color: white;
   }
 
