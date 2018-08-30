@@ -54,3 +54,12 @@
     background: cover;
     height: 500px;
 }
+#design{
+    text-align: center;
+}
+#design p{
+    /*float: left;*/
+}
+#dev{
+    text-align: center;
+}
