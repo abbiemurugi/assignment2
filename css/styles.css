@@ -1,6 +1,6 @@
 .h_img{
     background-image: url(../images/assets/backgrounds/h_img.jpg);
-    height: 650px;
+    height: 1000px;
 }
 #logo{
     float: right;
@@ -12,4 +12,8 @@
     padding-left: 500px;
     color: #FFFFFF;
     font-size: 80px;
+}
+.h_img h5{
+    padding-left: 420px;
+    color: #FFFFFF;
 }
