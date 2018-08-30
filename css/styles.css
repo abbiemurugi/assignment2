@@ -65,3 +65,8 @@
     text-align: center;
     float: right;
 }
+
+#imgC{
+    background-image: url(../images/assets/backgrounds/c_image.jpg);
+    height: 700px;
+}
