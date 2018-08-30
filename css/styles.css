@@ -56,9 +56,10 @@
 }
 #design{
     text-align: center;
+    float: left;
 }
 #design p{
-    /*float: left;*/
+
 }
 #dev{
     text-align: center;
