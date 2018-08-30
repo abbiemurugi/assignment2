@@ -40,3 +40,11 @@
     background-image: url(../images/assets/backgrounds/s_image.jpg);
     height: 450px;
 }
+#keyboard p{
+    text-align: center;
+    color: #FFFFFF;
+}
+#keyboard h3{
+    text-align: center;
+    color: #FFFFFF;
+}
