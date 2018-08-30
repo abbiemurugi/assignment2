@@ -48,3 +48,9 @@
     text-align: center;
     color: #FFFFFF;
 }
+
+.container{
+    /*background: rgb(109, 194, 202);*/
+    background: cover;
+    height: 500px;
+}
