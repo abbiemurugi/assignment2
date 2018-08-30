@@ -97,12 +97,29 @@
 
 
 #imgC{
-    background-image: url(../images/assets/backgrounds/c_image.jpg);
+    width: 100%;
     height: 700px;
+    background-size: 100% 100%;
+    background-image: url(../images/assets/backgrounds/c_image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
-
-
+#Fname{
+    padding-top: 50px;
+}
+#fname{
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+#text{
+    width: 100%;
+  padding: 12px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical
+}
 
 
 #social{
