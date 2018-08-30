@@ -22,3 +22,15 @@
     float: right;
     padding-right: 300px;
 }
+#content{
+    height: 400px;
+    float: right;
+}
+#content h3{
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+#content p{
+    text-align: center;
+}
