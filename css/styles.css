@@ -27,6 +27,7 @@
 #content{
     height: 400px;
     padding-left: 500px;
+    padding-top: 100px;
 }
 #content h3{
     padding-bottom: 40px;
@@ -109,23 +110,27 @@
     padding-top: 50px;
 }
 #fname{
-    float: left;
     width: 75%;
     margin-top: 6px;
 }
 #text{
     width: 100%;
-  padding: 12px;
-  border-radius: 4px;
-  box-sizing: border-box;
-  resize: vertical
+    padding: 12px;
+    border-radius: 6px;
+    box-sizing: border-box;
+    resize: vertical;
+    margin-top: 20px;
 }
+
+
+
+
 
 
 #social{
     padding-top: 20px;
     margin-top: 20px;
-    padding-left: 100px;
+    padding-left: 500px;
     text-align: center;
     height: 200px;
 }
